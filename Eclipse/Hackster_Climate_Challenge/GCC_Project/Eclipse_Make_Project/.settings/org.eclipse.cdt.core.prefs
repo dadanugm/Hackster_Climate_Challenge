@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1325310825/PATH/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1325310825/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1325310825/PATH/value=C\:\\GnuWin32\\bin;C\:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1325310825/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1325310825/appendContributed=true
